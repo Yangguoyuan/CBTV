@@ -1,0 +1,13 @@
+# CBTV repository contains four folders. 
+
+# 1. /Calculate_brain_variability
+    Voxel-wise index of the deformation value and logarithmically transformed Jacobian determinant to quantify variability of the template construction.
+   
+# 2. /Brodmann_Yeo7Networks_atlas
+    Calculate the global brain template variability (mDV and mLJD) in detailed brain regions using the seven resting-state networks atlas from Yeo and colleagues (Yeo et al., 2011).
+   
+# 3. /Segmentation_accuracy
+    Calculate tissue segmentation accuracy between the Caucasian and Chinese templates.  Specifically, using population-matched and population-mismatched brain templates on accuracy of segmentation of WM, GM and CSF. 
+    
+# 4. /Linear_nonlinear_regist_CN200_US200
+     Investigate linear and nonlinear registration performance through employing population-matched (e.g., registration of images from the HCP test set to US200 template) and population-mismatched brain templates (e.g., registration of images from the HCP test set to CN200 template).
