@@ -1,6 +1,6 @@
 # Welcome to the Computational Brain Template Variability (CBTV) repository
 
-We are form Jia-Hong Gao’s Center for MRI Research (CMR).
+We are from Jia-Hong Gao’s Center for MRI Research (CMR).
 
 CBTV repository is a package that provides following useful tools:
 
@@ -18,5 +18,5 @@ If you have issues, please email Guoyuan (yangguoyuan@pku.edu.cn), we are will t
 
 Happy researching!
 
-# Other depend on
+# Others depend on
 Data preprocessing using the ‘minimal preprocessing pipelines’ (Glasser et al., 2013), for more info, please see https://github.com/Washington-University/HCPpipelines/releases website. Template were constructed based on a diffeomorphic template building framework using the symmetric image normalization in ANT software (https://github.com/ANTsX/ANTs).
